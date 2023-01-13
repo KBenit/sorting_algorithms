@@ -1,4 +1,4 @@
-void bubble_sort(int array [], int n)
+void bubble_sort(int array [], int size_t n)
 {
     int i, j;
     for (i = 0; i < n - 1; i++)
